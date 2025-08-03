@@ -14,3 +14,5 @@ I approached this by:
 
 ## Results
 Final loss: **0.009**, 100% accuracy on handcrafted test set, and clear medical diagnosis outputs like `"Pneumonia"` or `"Myocardial infarction"`.
+
+www.kaggle.com/code/kjacoby/debugging-guide-t5-fine-tuning-true-bug
