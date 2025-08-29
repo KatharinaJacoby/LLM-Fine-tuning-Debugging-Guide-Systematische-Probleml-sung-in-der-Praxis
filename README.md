@@ -13,6 +13,5 @@ I approached this by:
 - Tuning generation parameters (e.g. beam search, repetition penalty)
 
 ## Results
-Final loss: **0.009**, 100% accuracy on handcrafted test set, and clear medical diagnosis outputs like `"Pneumonia"` or `"Myocardial infarction"`.
-
+Final loss: 0.009; accuracy on our small, hand-crafted test set was 100%, likely due to the limited dataset and clear-cut labels (e.g., Pneumonia, Myocardial infarction). This should not be interpreted as clinical performance.
 www.kaggle.com/code/kjacoby/debugging-guide-t5-fine-tuning-true-bug
